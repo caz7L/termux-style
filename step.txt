@@ -1,0 +1,9 @@
+CARA INSTALASI
+
+$cd /sdcard/[path]/termux-style
+
+#path: Tempat folder termux-style berada, misalnya di Downloads
+
+$cd termux-style
+
+$bash touchme.sh
